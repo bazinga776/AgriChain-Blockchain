@@ -1,8 +1,8 @@
 # Agri Chain
 A prototype for the Course: Blockchain Optimization
 by 
+Venkata Sindhu Kandula (UFID: 1914-5414)
 Sai Pujitha (UFID: 7179-9872)
-V. Sindhu Kandula (UFID: 1914-5414)
 Adil Shaik (UFID: 6998-5592)
 
 ## Installation
